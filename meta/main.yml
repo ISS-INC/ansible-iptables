@@ -3,11 +3,19 @@
 dependencies: []
 
 galaxy_info:
-  author: DSMorse
+  author: "David Morse"
   company: ISS
   description: Manage iptables rules (Docker aware)
   license: MIT
-  categories:
+  min_ansible_version: 1.8
+  version: 1.0  
+  
+  platforms:
+  - name: EL
+    versions:
+      - 7  
+  galaxy_tags:
   - system
+  - firewall
   - networking
 
