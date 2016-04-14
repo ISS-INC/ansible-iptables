@@ -1,4 +1,8 @@
 ---
+# Handlers for iptables
 
-- name: iptables load
-  shell: "{{iptables_rules_path}}"
+- name: restart iptables
+  service:
+    name: iptables
+    state: restarted
+    enabled: yes

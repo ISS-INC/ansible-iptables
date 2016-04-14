@@ -3,9 +3,9 @@
 dependencies: []
 
 galaxy_info:
-  author: klen
-  company: Stouts
-  description: Manage iptables rules
+  author: DSMorse
+  company: ISS
+  description: Manage iptables rules (Docker aware)
   license: MIT
   categories:
   - system

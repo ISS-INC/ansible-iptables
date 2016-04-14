@@ -1,4 +1,8 @@
-Contributors:
+This project was forked from https://github.com/Stouts/Stouts.iptables and updated for docker by 
+
+* David Morse (https://github.com/dsmorse)
+
+Orginal Contributors:
 
 * Adham Helal (https://github.com/ahelal)
 * David L Ballenger (https://github.com/davidlballenger)
